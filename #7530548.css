@@ -461,7 +461,7 @@ UPDATES IN THIS VERSION:
         height: auto !important;
         max-width: 100% !important;
         max-height: 100% !important;
-        box-shadow: 0 0 222px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 0 222px rgba(0, 0, 0, 0);
     }
 
     @media (orientation: landscape) {
